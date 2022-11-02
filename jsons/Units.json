@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Scout",
+    "unitType": "Scout",
+    "movement": 3,
+    "strength": 5,
+    "cost": 25,
+    "uniques": [
+      "May upgrade to [Archer] through ruins-like effects",
+      "Never appears as a Barbarian unit",
+      "Can see over obstacles",
+      "Normal vision when embarked"
+    ],
+    "promotions": [
+      "Ignore terrain cost"
+    ],
+    "attackSound": "nonmetalhit"
+    "upgradesTo": "Archer"
+  },
+  
+]
