@@ -9,7 +9,14 @@
       "May upgrade to [Archer] through ruins-like effects",
       "Never appears as a Barbarian unit",
       "Can see over obstacles",
-      "Normal vision when embarked"
+      "Normal vision when embarked",
+      "[+180]% Strength <starting from the [Medieval era]>",
+//This takes it to 9 (without other enhancment.)
+      "[+120]% Strength <starting from the [Industrial era]>",
+//This *should* take it to 15, but *may* only hit 10 or 11 depending on how that's handled.
+//(This would be so much easier if we had a *numerical* Strength control, arg.)
+      "[+100]% Strength <starting from the [Atomic era]>"
+//And lastly this should take it up to 20. I hope.
     ],
     "promotions": [
       "Ignore terrain cost"
