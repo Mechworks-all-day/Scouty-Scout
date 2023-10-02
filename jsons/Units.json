@@ -9,7 +9,7 @@
       "May upgrade to [Archer] through ruins-like effects",
       "Never appears as a Barbarian unit",
       "Can see over obstacles",
-      "Normal vision when embarked",
+      "[+1] Sight <when [Embarked]>",
       "[+180]% Strength <starting from the [Medieval era]>",
 //This takes it to 9 (without other enhancment.)
       "[+120]% Strength <starting from the [Industrial era]>",
